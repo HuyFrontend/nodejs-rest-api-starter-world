@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-rest-api-starter",
+  "version": "1.0.0",
+  "description": "nodejs api with rest api starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs, rest api starter",
+    "api"
+  ],
+  "author": "huy.vo",
+  "license": "ISC",
+  "dependencies": {
+    "rest-api-starter": "0.0.28",
+    "uuid": "^3.2.1o"
+  }
+}
